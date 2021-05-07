@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(
-    MaterialApp(
-        home: Scaffold(
+    MaterialApp( 
+      home: Scaffold(
       backgroundColor: Colors.blueAccent[300],
       appBar: AppBar(
         title: Text('I am Rich'),
